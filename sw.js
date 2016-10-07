@@ -10,7 +10,7 @@ var urlsToCache = [
       './img/images.png',
        './img/offline.png',
        './img/ready.png',
-	 './img/6.jpg'
+	 './img/6.png'
       ]; 
  
 
